@@ -16,7 +16,7 @@ Determine key drivers of winning
 Measure overperformance and underperformance
 # Dataset
 
-Team-level aggregated statistics (2025/26 Ghana Premier League season)
+Team-level aggregated statistics (2025/26 Ghana Premier League season footystats)
 
 Key features include:
 
