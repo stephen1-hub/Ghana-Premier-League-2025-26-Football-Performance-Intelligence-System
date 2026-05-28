@@ -32,10 +32,8 @@ Winning is driven more by consistency and goal difference than raw win totals.
 Several top teams are underperforming relative to their underlying strength.
 The league shows competitive balance with no fully dominant team.
 # Streamlit Dashboard
+https://8cdbeuuyvmg8dwdpx6tg6j.streamlit.app/
 
-Run the interactive app locally:
-
-streamlit run app/streamlit_app.py
 # Tech Stack
 Python
 Pandas
