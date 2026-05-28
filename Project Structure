@@ -1,0 +1,34 @@
+Ghana-Premier-League-2025-26-Football-Performance-Intelligence-System/
+│
+├── 📁 data/
+│   └── ghana-ghana-premier-league-teams-2025-to-2026-stats.csv
+│
+├── 📁 notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_title_race_analysis.ipynb
+│   ├── 03_home_away_analysis.ipynb
+│   ├── 04_late_game_analysis.ipynb
+│   └── 05_over_underperformance_analysis.ipynb
+│
+├── 📁 app/
+│   └── app33.py
+│
+├── 📁 assets/
+│   ├── gpl_banner.png
+│   ├── title_race_chart.png
+│   ├── home_advantage_chart.png
+│   └── late_game_vulnerability_chart.png
+│
+├── 📁 reports/
+│   └── gpl_season_insights_report.pdf
+│
+├── 📁 src/
+│   ├── data_processing.py
+│   ├── feature_engineering.py
+│   ├── analysis.py
+│   └── visualization.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
